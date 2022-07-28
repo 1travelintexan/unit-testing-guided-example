@@ -8,8 +8,6 @@
 
 **Fork** this repository first. After you have successfully forked the repository to your account **clone** it to your machine.
 
-
-
 <!-- **Fork** this repository. You should see an "**Actions**" tab at the top of the GitHub interface for your fork. Click it. You should see the following:
 
 ![Actions Tab](https://user-images.githubusercontent.com/7128083/116699595-a9589500-a9bd-11eb-95be-fca6914504e0.png)
